@@ -1,3 +1,17 @@
+# Before starting you need the following:
+
+1. Node - https://nodejs.dev/download/ 
+Select - Current 
+Download Window MSI file
+Virus scan (just in case)
+Run - make a cup of coffee.
+
+2. Javascript IDE, I'm using JetBrains Webstorm but you can only use it for free for 30 days.
+
+3. Add this project to your IDE as a new project from GitHub.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
